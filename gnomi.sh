@@ -31,7 +31,7 @@ while getopts ":p:d:h:v" opt; do
 done
 
 [ -z "$dotfilesrepo" ] && dotfilesrepo="https://github.com/vagos/.dotfiles.git"
-[ -z "$prgrmsfile"   ] && prgrmsfile="https://raw.githubusercontent.com/Vagos/vars/main/programs.csv"
+[ -z "$prgrmsfile"   ] && prgrmsfile="https://raw.githubusercontent.com/vagos/gnomi/main/programs.csv"
 [ -z "$aurhelper"    ] && aurhelper="yay"
 
 

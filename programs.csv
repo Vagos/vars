@@ -1,4 +1,4 @@
-#TAG,NAME,DESCRIPTION
+SOURCE,NAME,DESCRIPTION
 ,alacritty,terminal emulator.
 ,bashmount,small cli helper for mounting external drives.
 ,cht.sh-git,
